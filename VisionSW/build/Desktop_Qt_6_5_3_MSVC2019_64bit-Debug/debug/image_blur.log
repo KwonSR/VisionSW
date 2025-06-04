@@ -1,0 +1,112 @@
+[2025-06-04 04:58:40] Please Check kernelSize in setting.ini
+[2025-06-04 04:59:01] Please Check number of image file in setting.ini
+[2025-06-04 05:01:51] Load setting.ini Compelete
+[2025-06-04 05:01:51] kernelSize = 21
+[2025-06-04 05:09:41] Load setting.ini Compelete
+[2025-06-04 05:09:41] kernelSize = 21
+[2025-06-04 05:11:21] This image is not Gray Image
+[2025-06-04 05:11:21] 	File path = /image/test.jpg
+[2025-06-04 05:11:52] This image is not Gray Image
+[2025-06-04 05:11:52] 	-> File path = /image/test.jpg
+[2025-06-04 05:12:29] This image is not Gray Image
+[2025-06-04 05:12:29] 	-> File path = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test.jpg
+[2025-06-04 05:12:53] Load setting.ini Compelete
+[2025-06-04 05:12:53] kernelSize = 21
+[2025-06-04 05:15:01] Load setting.ini Compelete
+[2025-06-04 05:15:01] 	-> File path 1 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_1.jpg
+[2025-06-04 05:15:01] 	-> File path 2 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_2.jpg
+[2025-06-04 05:15:01] 	-> File path 3 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_3.jpg
+[2025-06-04 05:15:01] 	-> save path = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/result
+[2025-06-04 05:15:01] 	-> kernelSize = 21
+[2025-06-04 05:15:20] Please Check kernelSize in setting.ini
+[2025-06-04 05:25:23] Load setting.ini Compelete
+[2025-06-04 05:25:23] 	-> File path 1 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_1.jpg
+[2025-06-04 05:25:23] 	-> File path 2 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_2.jpg
+[2025-06-04 05:25:23] 	-> File path 3 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_3.jpg
+[2025-06-04 05:25:23] 	-> save path = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/result
+[2025-06-04 05:25:23] 	-> kernelSize = 21
+[2025-06-04 05:25:25] =====Opencv_dll.dll Start=====
+[2025-06-04 05:25:25] 	 ->D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_1.jpg
+[2025-06-04 05:25:25] 	 ->D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_2.jpg
+[2025-06-04 05:25:25] 	 ->D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_3.jpg
+[2025-06-04 05:25:26] <opencv>test_image_1.jpg Finished!
+[2025-06-04 05:25:26] <opencv>test_image_3.jpg Finished!
+[2025-06-04 05:25:26] <opencv>test_image_2.jpg Finished!
+[2025-06-04 05:26:21] <opencv>test_image_1.jpg Finished!
+[2025-06-04 05:26:21] <opencv>test_image_3.jpg Finished!
+[2025-06-04 05:26:21] <opencv>test_image_2.jpg Finished!
+[2025-06-04 05:27:14] Load setting.ini Compelete
+[2025-06-04 05:27:14] 	-> File path 1 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_1.jpg
+[2025-06-04 05:27:14] 	-> File path 2 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_2.jpg
+[2025-06-04 05:27:14] 	-> File path 3 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_3.jpg
+[2025-06-04 05:27:14] 	-> save path = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/result
+[2025-06-04 05:27:14] 	-> kernelSize = 21
+[2025-06-04 05:27:17] 	 <custom>test_image_1.jpg Finished!
+[2025-06-04 05:27:17] 	 <custom>test_image_3.jpg Finished!
+[2025-06-04 05:27:17] 	 <custom>test_image_2.jpg Finished!
+[2025-06-04 05:56:32] Load setting.ini Compelete
+[2025-06-04 05:56:32] 	-> File path 1 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_1.jpg
+[2025-06-04 05:56:32] 	-> File path 2 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_2.jpg
+[2025-06-04 05:56:32] 	-> File path 3 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_3.jpg
+[2025-06-04 05:56:32] 	-> save path = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/result
+[2025-06-04 05:56:32] 	-> kernelSize = 21
+[2025-06-04 05:56:35] =====Opencv_dll.dll Start=====
+[2025-06-04 05:56:35] 	 ->D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_1.jpg
+[2025-06-04 05:56:35] 	 ->D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_2.jpg
+[2025-06-04 05:56:35] 	 ->D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_3.jpg
+[2025-06-04 05:56:36] 			 <opencv>test_image_1.jpg processing time: 910ms
+[2025-06-04 05:56:36] 			 <opencv>test_image_3.jpg processing time: 959ms
+[2025-06-04 05:56:36] 			 <opencv>test_image_2.jpg processing time: 967ms
+[2025-06-04 05:57:02] 			 <custom>test_image_1.jpg processing time: 1344ms
+[2025-06-04 05:57:02] 			 <custom>test_image_3.jpg processing time: 1400ms
+[2025-06-04 05:57:02] 			 <custom>test_image_2.jpg processing time: 1426ms
+[2025-06-04 06:11:53] Load setting.ini Compelete
+[2025-06-04 06:11:53] 	-> File path 1 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_1.jpg
+[2025-06-04 06:11:53] 	-> File path 2 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_2.jpg
+[2025-06-04 06:11:53] 	-> File path 3 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_3.jpg
+[2025-06-04 06:11:53] 	-> save path = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/result
+[2025-06-04 06:11:53] 	-> kernelSize = 21
+[2025-06-04 07:43:50] Load setting.ini Compelete
+[2025-06-04 07:43:50] 	-> File path 1 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_1.jpg
+[2025-06-04 07:43:50] 	-> File path 2 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_2.jpg
+[2025-06-04 07:43:50] 	-> File path 3 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_3.jpg
+[2025-06-04 07:43:50] 	-> save path = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/result
+[2025-06-04 07:43:50] 	-> kernelSize = 21
+[2025-06-04 07:46:29] =====Opencv_dll.dll Start=====
+[2025-06-04 07:46:29] 	 ->D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_1.jpg
+[2025-06-04 07:46:29] 	 ->D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_2.jpg
+[2025-06-04 07:46:29] 	 ->D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_3.jpg
+[2025-06-04 07:46:30] 		 <opencv>test_image_1.jpg processing time: 879ms
+[2025-06-04 07:46:30] 		 <opencv>test_image_3.jpg processing time: 916ms
+[2025-06-04 07:46:30] 		 <opencv>test_image_2.jpg processing time: 932ms
+[2025-06-04 07:46:35] 		 <custom>test_image_1.jpg processing time: 1378ms
+[2025-06-04 07:46:35] 		 <custom>test_image_2.jpg processing time: 1449ms
+[2025-06-04 07:46:35] 		 <custom>test_image_3.jpg processing time: 1456ms
+[2025-06-04 07:46:43] File: test_image_1.jpg
+[2025-06-04 07:46:43] 		 -> Diff Image
+[2025-06-04 07:46:43] File: test_image_2.jpg
+[2025-06-04 07:46:43] 		 -> Diff Image
+[2025-06-04 07:46:43] File: test_image_3.jpg
+[2025-06-04 07:46:43] 		 -> Diff Image
+[2025-06-04 08:18:25] Load setting.ini Compelete
+[2025-06-04 08:18:25] 	-> File path 1 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_1.jpg
+[2025-06-04 08:18:25] 	-> File path 2 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_2.jpg
+[2025-06-04 08:18:25] 	-> File path 3 = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_3.jpg
+[2025-06-04 08:18:25] 	-> save path = D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/result
+[2025-06-04 08:18:25] 	-> kernelSize = 21
+[2025-06-04 08:18:36] =====Opencv_dll.dll Start=====
+[2025-06-04 08:18:36] 	 ->D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_1.jpg
+[2025-06-04 08:18:36] 	 ->D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_2.jpg
+[2025-06-04 08:18:36] 	 ->D:/_Develop/Qt_Project/VisionSW/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/debug/image/test_image_3.jpg
+[2025-06-04 08:18:37] 		 <opencv>test_image_1.jpg processing time: 884ms
+[2025-06-04 08:18:37] 		 <opencv>test_image_3.jpg processing time: 928ms
+[2025-06-04 08:18:37] 		 <opencv>test_image_2.jpg processing time: 934ms
+[2025-06-04 08:18:40] 		 <custom>test_image_1.jpg processing time: 1380ms
+[2025-06-04 08:18:40] 		 <custom>test_image_3.jpg processing time: 1447ms
+[2025-06-04 08:18:40] 		 <custom>test_image_2.jpg processing time: 1482ms
+[2025-06-04 08:18:45] File: test_image_1.jpg
+[2025-06-04 08:18:45] 		 -> Diff Image
+[2025-06-04 08:18:46] File: test_image_2.jpg
+[2025-06-04 08:18:46] 		 -> Diff Image
+[2025-06-04 08:18:46] File: test_image_3.jpg
+[2025-06-04 08:18:46] 		 -> Diff Image
